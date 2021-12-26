@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    margin: 20px;
+}
+
+img {
+    margin: 20px;
+    height: 460px;
+    width: 819px;
+}
+
+a:link {
+    color:cadetblue;
+}
+
+a:visited {
+    color:cornflowerblue;
+}
